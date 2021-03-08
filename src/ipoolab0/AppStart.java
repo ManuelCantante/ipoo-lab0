@@ -11,11 +11,11 @@ public class AppStart {
 
    static Scanner scanner = new Scanner(System.in);
     public static void  main(String args[]){
-    System.out.println("***************************************************");
+    System.out.println("****************************************************");
     System.out.println("1: Pequeno");
     System.out.println("2: Medio");
     System.out.println("3: Grande");
-    System.out.println("***************************************************");
+    System.out.println("****************************************************");
     int menuOption = scanner.nextInt();
     switch(menuOption){
         

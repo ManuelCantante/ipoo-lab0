@@ -5,7 +5,7 @@ package ipoolab0;
 public enum Size {
 
  SMALL(32, 36, "Pequeno",'S'),
- MEDIUM(37, 44, "Médio",'M'),
+ MEDIUM(37, 44, "Medio",'M'),
  LARGE(45, 52, "Grande",'L');
  private final String description;
  private final int minValue;
